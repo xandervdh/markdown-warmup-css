@@ -126,6 +126,6 @@ a:active {
     text-decoration: underline;
 }
 
-p {
-
+.title {
+    font-family: 'Rowdies', cursive;
 }
