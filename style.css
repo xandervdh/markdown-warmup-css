@@ -49,20 +49,48 @@ th, td {
     padding: 15px;
 }
 
-tr .first{
-    background-color: #A6518F;
-   }
-
 td:hover {
+    background-color: #272F59;
+    color: #537FA6;
+}
+
+th:hover {
+    background-color: #272F59;
+    color: #537FA6;
+}
+
+.first {
     background-color: #A6518F;
 }
 
+.second {
+    background-color: #D96C94;
+}
 h2 {
     text-align: center;
 }
 
 footer {
     text-align: center;
-    padding-top: 30px
-;
+    padding-top: 30px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+p {
+
 }
