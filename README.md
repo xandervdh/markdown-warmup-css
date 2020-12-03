@@ -1,4 +1,4 @@
-# markdown warmup css
-link to online preview 
+# markdown warmup CSS
+With this challenge we added CSS to the [previous challenge](https://github.com/xandervdh/markdown-to-HTML)
 
-https://xandervdh.github.io/markdown-warmup-css/
+[Live preview] (https://xandervdh.github.io/markdown-warmup-css/)
